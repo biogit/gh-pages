@@ -103,7 +103,7 @@ input, select, textarea {
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
-		line-height: 1.75em;
+		line-height: 2em;
 	}
 
 	strong, b {
@@ -1597,7 +1597,7 @@ input, select, textarea {
 			font-size: 1.5em;
 		}
 
-		.box.post p {
+		.box.post p, ul {
 			font-size: 1.25em;
 		}
 
